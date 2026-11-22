@@ -91,7 +91,7 @@ Bring your own model, bring your own keys — the gateway speaks the OpenAI-comp
 
 | | **Forja Workspace** | **Forja Co-work** |
 |---|---|---|
-| Who | individuals leading several projects through CLI agents (Claude Code, OpenCode, Qwen Code, Codex, Gemini CLI) | teams and departments working with documents and extracts — no terminal required |
+| Who | individuals leading several projects through CLI agents (OpenCode, Qwen Code, Codex, Gemini CLI) | teams and departments working with documents and extracts — no terminal required |
 | Where | local-first desktop app, data in plain folders and SQLite | on-prem: air-gapped operation, directory (LDAP/AD) auth, journal export to SIEM |
 | Trust model | your machine, your keys | isolated spaces, inherited permissions (an agent sees only what the delegating employee sees), 100%-journal |
 | Status (Nov 2026) | working, in beta | designed — see [docs/02-architecture.md](docs/02-architecture.md) §4 |

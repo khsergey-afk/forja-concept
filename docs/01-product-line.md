@@ -14,7 +14,7 @@ document with versions, and the human accepts it explicitly — line by line.
 One product, two profiles:
 
 - **Forja Workspace** — a personal workplace (desktop, local-first): projects, tasks, files,
-  documents and CLI-agent sessions (Claude Code, OpenCode, Qwen Code, Codex, Gemini CLI) in one
+  documents and CLI-agent sessions (OpenCode, Qwen Code, Codex, Gemini CLI) in one
   application. Works locally, no cloud.
 - **Forja Co-work** — the corporate edition: a multi-user system inside the customer's closed
   perimeter — isolated spaces, roles and the organization's directory, a model gateway to the
